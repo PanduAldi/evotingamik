@@ -1,3 +1,3 @@
-EVOTING AMIK 
+E-VOTING PHP + MYSQLi
 
-ini adalah evoting ami
+Apikasi E-Voting yang dibuatmenggunakan bahasa pemrogramanan PHP dan MySQL.
