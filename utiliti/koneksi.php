@@ -7,7 +7,7 @@
 	//declare variable
 	$host 	= 'localhost';
 	$user 	= 'root';
-	$pass 	= '';
+	$pass 	= 'Pratama652';
 	$dbname = 'evote';
 
 	//koneksi db
